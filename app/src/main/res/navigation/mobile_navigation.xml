@@ -24,7 +24,11 @@
         tools:layout="@layout/fragment_notifications" />
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.example.profnotes.LoginFragment"
-
-        android:label="LoginFragment" />
+        android:name="com.example.profnotes.ui.login.LoginFragment"
+        tools:layout="@layout/fragment_login"
+        android:label="LoginFragment" >
+        <action
+            android:id="@+id/action_loginFragment_to_navigation_home"
+            app:destination="@id/navigation_home" />
+    </fragment>
 </navigation>

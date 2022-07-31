@@ -7,6 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
     <color name="profsoft_1">#1C1C1C</color>
     <color name="profsoft_2">#292929</color>
     <color name="profsoft_3">#898989</color>
@@ -17,7 +18,6 @@
     <color name="profsoft_8">#3D3D3D</color>
     <color name="profsoft_9">#949494</color>
 
-    
     <color name="dark">#292929</color>
     <color name="darkGray">#3D3D3D</color>
     <color name="gray">#898989</color>
